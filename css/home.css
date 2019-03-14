@@ -1,8 +1,27 @@
-.main-content{
-    background-color: #00000070;
+.home_banner {
+    background-image: url("../assets/background2.jpg");
+    background-repeat: no-repeat;
+    background-color: rgba(255, 255, 255, 0.774);
+    background-size: 100%;
+    padding-top: 10%;
+    padding-bottom: 10%;
 }
 
-body {
-    background-image: url("../assets/background.jpg");
-    background-size: 100%;
+.home_banner h2 {
+    font-size: 10em;
+    text-align: center;
+}
+.home_banner p {
+    padding-top: 80px;
+    font-size: 1.7em;
+    text-align: center;
+}
+
+.about_me{
+    background-color: white;
+}
+
+.profile img{
+    width: 80%;
+    height: auto;
 }
