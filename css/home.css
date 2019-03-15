@@ -29,3 +29,8 @@
     width: 80%;
     height: auto;
 }
+
+.contact li{
+    display:inline;
+    margin-right: 70px;
+}
