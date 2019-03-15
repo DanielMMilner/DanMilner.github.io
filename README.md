@@ -1,4 +1,4 @@
 # Daniel Milner
 
 ## About
-This webpage exists to demonstrate some of the projects I have worked on over the past few years
+This webpage exists as a personal website for Daniel Milner to demonstrate some of the skills developed while at university.
